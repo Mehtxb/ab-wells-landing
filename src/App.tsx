@@ -508,7 +508,7 @@ const ConsultingLandingPage: React.FC = () => {
 
   // EDITABLE: About
   const ABOUT = {
-    heading: "Pragmatic partners, not slide-makers",
+    heading: "Pragmatic partners, your helping hand",
     body: `We're builders at heart. We partner with founders and product teams to solve real problems, ship real features, and
     leave you with durable systems—not dependency. Our approach is transparent, test-driven, and tailored to your constraints.`,
     bullets: [
